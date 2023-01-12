@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Toni-Zoaretz/Toni-Zoaretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 👋 Hi, My name is Toni
 💼 I’m currently working on TONIZ עיצוב ובניית אתרים
