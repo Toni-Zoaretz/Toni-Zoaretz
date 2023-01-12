@@ -1,10 +1,10 @@
-👋 Hi, My name is Toni
+👋 Hi, My name is Toni<br>
 💼 I’m currently working on TONIZ עיצוב ובניית אתרים
-👀 I’m interested in Software developing
-🌱 I’m currently learning web technologies.
-➡ LinkedIn: https://www.linkedin.com/in/toni-zoaretz-151576164/
-📫 email: tonizoaretz1@gmail.com
-⚡ Fun fact: Polar bears are left-handed
+👀 I’m interested in Software developing<br>
+🌱 I’m currently learning web technologies.<br>
+➡ LinkedIn: https://www.linkedin.com/in/toni-zoaretz-151576164/<br>
+📫 email: tonizoaretz1@gmail.com<br>
+⚡ Fun fact: Polar bears are left-handed<br>
 
 <!--
 **Toni-Zoaretz/Toni-Zoaretz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
