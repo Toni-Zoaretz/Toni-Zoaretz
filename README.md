@@ -1,5 +1,4 @@
 👋 Hi, My name is Toni<br>
-💼 I’m currently working on TONIZ עיצוב ובניית אתרים <br>
 👀 I’m interested in Software developing<br>
 🌱 I’m currently learning Full Stack development<br>
 ➡ LinkedIn: https://www.linkedin.com/in/toni-zoaretz-151576164/<br>
